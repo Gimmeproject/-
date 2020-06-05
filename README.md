@@ -13,7 +13,7 @@
 ![Image1](https://i.imgur.com/qvxj1Rv.png)Оксимирон
 ![Image1](https://i.imgur.com/r2FtjZX.png)Хаски
 
-Мы преступили к анализу употребляемости самых популярных у этих исполнителей слов: 
+Мы преступаем к их анализу: 
 ## Оксимирон
 ![Image1](https://i.imgur.com/EgKvbCw.png)
 ![Image1](https://i.imgur.com/oBnwq4d.png)
